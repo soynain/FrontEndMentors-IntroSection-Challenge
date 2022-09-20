@@ -16,7 +16,11 @@ Active states are missing too:
 ![image](https://user-images.githubusercontent.com/78714792/191332667-afd022c6-0a99-4698-8e32-359b9207396c.png)
 
 
+#AND HERES MY APPROACH (wait for updates)
 
+![image](https://user-images.githubusercontent.com/78714792/191333094-7a555faa-63a8-4ce2-a634-490c2bb4f1e2.png)
+
+![image](https://user-images.githubusercontent.com/78714792/191333146-47ee8305-0807-4509-8800-1c94999c837d.png)
 
 
 
