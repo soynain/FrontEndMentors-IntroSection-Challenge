@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:wght@300&display=swap');
+
+
+.nav-items{
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(0, 0%, 98%);
+    font-family: 'Chivo', sans-serif;
+}
+
+.logo-list-container{
+    padding-left: 25px;
+    width: 47%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+#page-logo{
+    margin-right: 2.1rem;
+}
+
+.logo-list-container--list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.action-buttons-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 10rem;
+    height: 100%;
+    padding-right: 25px;
+}
+
+.action-buttons-container button{
+    height: 3rem;
+    background-color: hsl(0, 0%, 98%);
+    border: none;
+    font-family: 'Chivo', sans-serif;
+    font-weight: 700;
+}
+
+.action-buttons-container #register{
+    width: 5rem;
+    border: 2px solid hsl(0, 0%, 8%);
+    border-radius: 5px;
+}
+.action-buttons-container #login{
+    width: 4rem;
+}

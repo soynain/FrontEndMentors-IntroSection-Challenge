@@ -1,0 +1,15 @@
+.right-home-page{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    justify-content: flex-start;
+    align-content: flex-start;
+    height: 100vh;
+    font-family: 'Chivo', sans-serif;
+}
+
+.hero-icon{
+    object-fit:contain;
+    width: 89%;
+    height: 89%;
+}
